@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > git clone https://github.com/imamsyahfa2005/nice
 > cd nice
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index.js
->pindah tuh qr
+>pindah tuh qr```
 
 
 ## FITUR
