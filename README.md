@@ -20,7 +20,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 >pindah tuh qr
 
 
-# FITUR
+## FITUR
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
